@@ -6,6 +6,8 @@ This is a python implementation of Factorization Machines [1]. This uses stochas
 [2] Steffen Rendle: Learning recommender systems with adaptive regularization. WSDM 2012: 133-142
 
 ## Installation
+
+### This fork is a simple windows install patch will not work on unix systems !
 ```
 pip install git+https://github.com/coreylynch/pyFM
 ```
