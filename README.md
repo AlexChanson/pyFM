@@ -9,7 +9,7 @@ This is a python implementation of Factorization Machines [1]. This uses stochas
 
 ### This fork is a simple windows install patch will not work on unix systems !
 ```
-pip install git+https://github.com/coreylynch/pyFM
+pip install git+https://github.com/AlexChanson/pyFM/
 ```
 
 ## Dependencies
